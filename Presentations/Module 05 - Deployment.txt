@@ -1,0 +1,11 @@
+Deployment Options?
+File System vs MSDB vs SSIS CatalogDB
+How to use SSIS CatalogDB for enviornment variables Prod vs UAT vs Dev?
+
+Demos?
+Deploy package.
+Deploy Project.
+Promote project from development -> test -> production.
+
+Labs?
+Same.

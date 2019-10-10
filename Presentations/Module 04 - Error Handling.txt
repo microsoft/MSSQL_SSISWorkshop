@@ -1,0 +1,17 @@
+Error Handling Options
+Row Redirect.
+Event Handler.
+Transactions.
+Checkpoints.
+
+Demos?
+- Show Row redirect.
+- Show Event handler.
+- Show transactions.
+- Show Checkpoints.
+
+Labs?
+- Same as demo.
+
+Review
+* Module 7 - Labe 1 SSIS Checkpoints

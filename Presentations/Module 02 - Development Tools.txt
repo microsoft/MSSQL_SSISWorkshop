@@ -1,0 +1,15 @@
+SQL Server Data Tools - What is it? How does it relate to Visual Studio, etc.
+Visual Studio Overview
+How to create a project?
+What do each of the elments mean?
+- Menus, Options, SSIS Menu.
+What do all the properties of a project mean?
+SSMS Role in SSIS.
+
+Q & A for each seciton
+
+Demos?
+* Walkthrough the visual studio / all its components / menus they need to aware off.
+
+Labs?
+* Build a basic SSIS package.

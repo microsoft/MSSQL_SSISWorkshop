@@ -1,0 +1,16 @@
+SSIS Introduction Topics
+SSIS Components.
+Purpose of SSIS Service.
+SSIS and FCI.
+SSIS and AlwaysOn.
+What is SSIS Catalog DB?
+How to create an SSIS Catalog DB?
+SSIS Usage Scenarios.
+
+Q & A for each seciton
+
+Demos?
+- How to create SSIS Catalog DB.
+
+Labs?
+- For One Person: Create SSIS Catalog DB.
