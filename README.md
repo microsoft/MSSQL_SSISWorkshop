@@ -1,3 +1,10 @@
+# Requirements
+
+- SQL Server 2012 (Engine + SQL Server Integration Services).
+- Visual Studio 2019+
+- SQL Server Data Tools - Integration Services.
+- AdventureWorks Sample Database, Use the OLTP Database [https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms].  Although no lab is version dependent, the scripts and manuals might have AdventureWorks#### hardcoded.  Adjust as needed.
+- 7-Zip Tool to Unzip Lab Files.
 
 # Contributing
 
