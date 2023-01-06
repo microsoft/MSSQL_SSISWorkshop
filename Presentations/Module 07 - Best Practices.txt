@@ -1,6 +1,0 @@
-Development Standards.
-Design strategies.
-Best Practices.
-- Name connection objects with driver name.
-Permissions and Security requirements for SSIS DB?
-Proxy account for SSIS packages.
